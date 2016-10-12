@@ -1,0 +1,1 @@
+SUPER Simple MongoDB setup for simple Opsworks testing/usage
